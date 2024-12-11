@@ -8,6 +8,7 @@
     "description": "Módulo de Popups da biblioteca Yellow Lib",
     "samples": [],
 	"dependencies": {
+		"com.unity.addressables": "1.21.21",
 		"games.yellowpanda.yellowlib.core": "https://github.com/YP-Internal/yellowlib-core.git"
 	}
 }
